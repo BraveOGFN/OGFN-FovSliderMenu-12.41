@@ -9,7 +9,7 @@ Hotkey: H
 - Fps Multiplier
 - Color Strength
 
-## Layout
+## What?
 
 Custom OGFN Menu, with custom features
 
