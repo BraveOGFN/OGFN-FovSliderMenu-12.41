@@ -11,9 +11,7 @@ Hotkey: H
 
 ## Layout
 
-
-|---|---|
-| Custom OGFN Menu, with custom features |
+Custom OGFN Menu, with custom features
 
 There is no SLN, create one yourself or ask AI
 
